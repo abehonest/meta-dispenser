@@ -13,3 +13,5 @@ HEADERS += \
 
 FORMS += \
     mainwindow.ui
+
+LIBS += -lpigpio

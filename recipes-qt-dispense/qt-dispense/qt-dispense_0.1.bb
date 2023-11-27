@@ -3,7 +3,7 @@ DESCRIPTION = "Recipe created by David Booth"
 SECTION = "examples"
 LICENSE = "CLOSED"
 
-DEPENDS += "qtbase"
+DEPENDS += "qtbase pigpio"
 #REDPENDS_${PN} += "qtwayland"
 
 SRC_URI = " \
